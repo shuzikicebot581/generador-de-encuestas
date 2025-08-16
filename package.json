@@ -6,13 +6,13 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo 'No tests specified'",
-    "dev-test": "jest"  // Added script for running tests using Jest
+    "dev-test": "jest"  // Script para ejecutar pruebas usando Jest
   },
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.10.9"
   },
   "devDependencies": {
-    "jest": "^27.0.0"  // Added Jest as a development dependency for testing
+    "jest": "^27.0.0"  // Jest agregado como una dependencia de desarrollo para pruebas
   }
 }
