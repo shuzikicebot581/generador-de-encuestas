@@ -29,3 +29,9 @@ Si deseas contribuir, por favor abre un issue o un pull request.
 
 ## Licencia
 Este proyecto está licenciado bajo la MIT License.
+
+## Instrucciones de uso en producción
+Para ejecutar la aplicación en un entorno de producción, asegúrate de configurar las variables de entorno necesarias y utiliza un servidor adecuado como PM2. Por ejemplo:
+1. Instala PM2: `npm install pm2 -g`
+2. Ejecuta la aplicación: `pm2 start npm -- start`
+3. Monitorea la aplicación: `pm2 monit`
