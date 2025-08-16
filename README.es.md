@@ -13,6 +13,9 @@ Bienvenido al Generador de Encuestas, una herramienta sencilla que permite a los
 2. Instala las dependencias: `npm install`
 3. Ejecuta la aplicación: `npm start`
 
+## Ejemplo de uso
+Para crear una nueva encuesta, accede a la aplicación en `http://localhost:3000` y sigue las instrucciones en pantalla.
+
 Disfruta creando encuestas y recibe valiosos comentarios de la dev-community. ¡Contribuciones y mejoras son bienvenidas! 
 
 ## Tecnologías utilizadas
