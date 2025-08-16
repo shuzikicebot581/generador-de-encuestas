@@ -1,0 +1,14 @@
+{
+  "name": "generador-de-encuestas",
+  "version": "1.0.0",
+  "description": "Una herramienta simple para crear y compartir encuestas en línea dirigidas a la comunidad de desarrolladores.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No tests specified'"  
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
