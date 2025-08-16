@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo 'No tests specified'",
-    "dev-test": "jest"  // Script para ejecutar pruebas usando Jest
+    "dev-test": "jest --coverage"  // Script para ejecutar pruebas usando Jest con cobertura
   },
   "dependencies": {
     "express": "^4.17.1",
